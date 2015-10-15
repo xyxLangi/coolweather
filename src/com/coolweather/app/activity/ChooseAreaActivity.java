@@ -240,6 +240,6 @@ public class ChooseAreaActivity extends Activity {
 		} else {
 			finish();
 		}
-		super.onBackPressed();
+		
 	}
 }
